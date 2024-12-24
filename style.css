@@ -1,0 +1,13 @@
+html {
+  body{
+    background-color:#ff0000;
+  }
+  a{
+    color:rgb(255, 0, 0);
+  }
+  a:hover{
+    color: rgb(255, 0, 0);
+  }
+  a:active{
+    color: red;
+  }
